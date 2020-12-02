@@ -1,15 +1,15 @@
 ## Monster Abra A5 v9.1.2
 ### Big Sur Hackintosh
 
-Intel i7 7700HQ
-Mobil Intel HM175 Chipset
-Intel HD Graphics 630
-8GB 2133mhz Ram
-500GB NVMe Samsung 970 Evo Plus
-Intel Dual Band Wireless 8265
-Realtek ALC269
-Realtek RTL8111
-Chicony USB 2.0 Camera
+1. Intel i7 7700HQ
+1. Mobil Intel HM175 Chipset
+1. Intel HD Graphics 630
+1. 8GB 2133mhz Ram
+1. 500GB NVMe Samsung 970 Evo Plus
+1. Intel Dual Band Wireless 8265
+1. Realtek ALC269
+1. Realtek RTL8111
+1. Chicony USB 2.0 Camera
 
 ![Alt Text](https://github.com/totor-iot/Monster_Abra_A5_v9.1.2/blob/master/Abra-A5-v9.jpg)
 
