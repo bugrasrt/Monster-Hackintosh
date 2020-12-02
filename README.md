@@ -4,6 +4,7 @@
 * Intel i7 7700HQ
 * Mobil Intel HM175 Chipset
 * Intel HD Graphics 630
+* Nvidia Geforce 1050M(but not functional)
 * 8GB 2133mhz Ram
 * 500GB NVMe Samsung 970 Evo Plus
 * Intel Dual Band Wireless 8265
