@@ -10,6 +10,7 @@
 * Realtek ALC269
 * Realtek RTL8111
 * Chicony USB 2.0 Camera
+* Synaptics Touchpad
 
 ![Alt Text](https://github.com/totor-iot/Monster_Abra_A5_v9.1.2/blob/master/Abra-A5-v9.jpg)
 
