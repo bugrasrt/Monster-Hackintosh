@@ -10,6 +10,7 @@
 * Intel Dual Band Wireless 8265
 * Realtek ALC269
 * Realtek RTL8111
+* Realtek 8411B PCI Express Card Reader
 * Chicony USB 2.0 Camera
 * Synaptics Touchpad
 
