@@ -1177,9 +1177,9 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 darkwake=0 ps2rst=0 rtcfx_exclude=80-AB lilucpu=8 -disablegfxfirmware alcid=29</string>
+				<string>-v keepsyms=1 debug=0x100 darkwake=0 ps2rst=0 rtcfx_exclude=80-AB -disablegfxfirmware alcid=29</string>
 				<key>csr-active-config</key>
-				<data>dwAAAA==</data>
+				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
 				<key>SystemAudioVolume</key>
