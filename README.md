@@ -21,4 +21,4 @@
 
 Finally everything works well now :)
 
-And maybe you need to generate a new UUID and Serial number.
+Maybe you need to generate a new UUID and Serial number.
