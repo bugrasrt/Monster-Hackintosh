@@ -220,9 +220,9 @@
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
 				<key>alc-delay</key>
-				<integer>500</integer>
+				<integer>100</integer>
 				<key>layout-id</key>
-				<integer>29</integer>
+				<data>HQAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -893,7 +893,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 darkwake=0 -wegnoegpu alcid=29</string>
+				<string>-v keepsyms=1 debug=0x100 darkwake=0 -wegnoegpu</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1019,7 +1019,7 @@
 			<key>SetupDelay</key>
 			<integer>0</integer>
 			<key>VolumeAmplifier</key>
-			<integer>0</integer>
+			<integer>120</integer>
 		</dict>
 		<key>ConnectDrivers</key>
 		<true/>
