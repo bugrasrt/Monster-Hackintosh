@@ -16,7 +16,7 @@
           - Synaptics TouchPad(TrackPad)
           - Chicony Usb 2.0 Camera
           
-[./Abra-A5-v9.jpg]
-[./BigSur.png]
+./Abra-A5-v9.jpg
+./BigSur.png
 
 This is Stable Build, but maybe you need to generate a UUID and Serial number for iCloud services.
