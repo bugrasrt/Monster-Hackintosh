@@ -1,7 +1,7 @@
 # **Big Sur (11.1)**
 ## Monster Abra A5 v9.1.2 Hackintosh
 
-1. ####**Specs**:
+1. #### **Specs**:
 * Intel i7 7700HQ 2.8Ghz Turbo 3.8Ghz
 * HM175 Chipset
 * 100 Series/C230 Series Chipset Family
