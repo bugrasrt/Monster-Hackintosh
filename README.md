@@ -1,5 +1,5 @@
-#**Big Sur (11.1)**
-##Monster Abra A5 v9.1.2 Hackintosh
+# **Big Sur (11.1)**
+## Monster Abra A5 v9.1.2 Hackintosh
 
 **Spec**:
           - Intel i7 7700HQ 2.8Ghz Turbo 3.8Ghz
@@ -16,7 +16,7 @@
           - Synaptics TouchPad(TrackPad)
           - Chicony Usb 2.0 Camera
           
-[https://github.com/totor-iot/Monster-BigSur/blob/master/Abra-A5-v9.jpg]
-[https://github.com/totor-iot/Monster-BigSur/blob/master/BigSur.png]
+[./Abra-A5-v9.jpg]
+[./BigSur.png]
 
 This is Stable Build, but maybe you need to generate a UUID and Serial number for iCloud services.
