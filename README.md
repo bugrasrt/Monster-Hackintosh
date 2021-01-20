@@ -18,7 +18,7 @@
 * Synaptics TouchPad(TrackPad)
 * Chicony Usb 2.0 Camera
 
-![Monster](./Abra-A5-V9.jpg)
+![Monster](./Abra-A5-v9.jpg)
 ![BigSur](./BigSur.png)
 
 Stable Release
