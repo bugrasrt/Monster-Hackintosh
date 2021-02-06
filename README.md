@@ -1,4 +1,4 @@
-# Big Sur (11.1)
+# Big Sur (11.2)
 
 ## Monster Abra A5 v9.1.2 Hackintosh
 
